@@ -197,7 +197,7 @@ minikube start --driver=virtualbox
 
 Ahora podemos ver minikube virtualizado a través de la interfaz gráfica de virtualbox.
 
-En cualquier caso, en la siguiente sección utilizaremos minikube con el controlador de docker asñi que eliminaremos de nuevo el cluster creado y volveremos a crearlo con el driver de docker...
+En cualquier caso, en la siguiente sección utilizaremos minikube con el controlador de docker así que eliminaremos de nuevo el cluster creado y volveremos a crearlo con el driver de docker...
 
 ~~~
 minikube delete
